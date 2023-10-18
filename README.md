@@ -1,0 +1,1 @@
+I've learned all the relevant knowledge needed to find my way through the git ways.
